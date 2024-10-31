@@ -1,0 +1,18 @@
+## Updates This morning I woke up feeling tired, with a slight headache. This is
+due to the reason that I'v been sleeping late for some days now, reading and
+learning studiously about the gopher and gemini protocols and other retro
+technologies.  Yesterday, I also went to the farm to harvest cassava.  I was
+able to setup my github page though. At least that is out of the way. Since I
+won't be going to farm today, I hope to complete these tasks, as long as my
+phone battery permits.
+
+## Today's Task
+- Create a shell script that automate the chronological naming of files for my
+  daily logs.
+- Decide on a shared hosting gopher server
+- Decide on a shared hosting gemini server
+- Clean up my vimrc file
+- Create a shell or vim script that auto format text into twitter number of
+  characters.
+- Create a github personal access token
+- Post this on my social media accounts
