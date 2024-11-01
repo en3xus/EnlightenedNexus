@@ -19,10 +19,17 @@ accounts
 
 
 ## Activities
-- I was able to write the shell script. It was meant to auto create a new with the date format with an appened text.
-- For the gemini and gopher hosting services, I'v choosen tilde.pink and tilde.club. I'v emailed and signed up. They demanded ssh key though, which I created.
-- I'v cleaned up my vim config file and brought it down to 7 lines. For now I do not use vim for programming or coding. I just use it for writing. I noticed as I'm typing right now, the text are not indenting well and the words are breaking. So I need to add a line or two.
-- I didn't create the shell script for twitter formatting again. I realised I could use vim in textwidth and gq commands.
+- I was able to write the shell script. It was meant to auto create a new with 
+  the date format with an appened text.
+- For the gemini and gopher hosting services, I'v choosen tilde.pink and 
+  tilde.club. I'v emailed and signed up. They demanded ssh key though, which I 
+  created.
+- I'v cleaned up my vim config file and brought it down to 7 lines. For now I do 
+  not use vim for programming or coding. I just use it for writing. I noticed as 
+  I'm typing right now, the text are not indenting well and the words are 
+  breaking. So I need to add a line or two.
+- I didn't create the shell script for twitter formatting again. I realised I 
+  could use vim in textwidth and gq commands.
 - The github PAT was created for easy auth login to github through gh cli.
 - Yes, I did post and will post this too.
 
